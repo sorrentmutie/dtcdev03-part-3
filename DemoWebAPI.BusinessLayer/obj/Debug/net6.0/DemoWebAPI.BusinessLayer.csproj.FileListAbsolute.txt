@@ -1,0 +1,17 @@
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.BusinessLayer.deps.json
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.BusinessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.BusinessLayer.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.DataAccessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.Models.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.DataAccessLayer.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\bin\Debug\net6.0\DemoWebAPI.Models.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.csproj.AssemblyReference.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.AssemblyInfoInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.AssemblyInfo.cs
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.csproj.CopyComplete
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\refint\DemoWebAPI.BusinessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\DemoWebAPI.BusinessLayer.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.BusinessLayer\obj\Debug\net6.0\ref\DemoWebAPI.BusinessLayer.dll

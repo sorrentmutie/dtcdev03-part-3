@@ -1,0 +1,12 @@
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\bin\Debug\net6.0\DemoWebAPI.Models.deps.json
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\bin\Debug\net6.0\DemoWebAPI.Models.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\bin\Debug\net6.0\DemoWebAPI.Models.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.csproj.AssemblyReference.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.AssemblyInfoInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.AssemblyInfo.cs
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.csproj.CoreCompileInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\refint\DemoWebAPI.Models.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\DemoWebAPI.Models.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.Models\obj\Debug\net6.0\ref\DemoWebAPI.Models.dll

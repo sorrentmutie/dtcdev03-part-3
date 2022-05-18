@@ -1,0 +1,12 @@
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\bin\Debug\net6.0\DemoWebAPI.DataAccessLayer.deps.json
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\bin\Debug\net6.0\DemoWebAPI.DataAccessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\bin\Debug\net6.0\DemoWebAPI.DataAccessLayer.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.csproj.AssemblyReference.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.AssemblyInfoInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.AssemblyInfo.cs
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\refint\DemoWebAPI.DataAccessLayer.dll
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\DemoWebAPI.DataAccessLayer.pdb
+E:\corsi\ElectroLux\day3\DemoWebAPI\DemoWebAPI.DataAccessLayer\obj\Debug\net6.0\ref\DemoWebAPI.DataAccessLayer.dll

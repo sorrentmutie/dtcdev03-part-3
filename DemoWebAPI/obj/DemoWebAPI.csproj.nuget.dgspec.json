@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI\\DemoWebAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\DemoWebAPI.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\DemoWebAPI.BusinessLayer.csproj",
+        "projectName": "DemoWebAPI.BusinessLayer",
+        "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\DemoWebAPI.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
+        "outputPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salvatore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\DemoWebAPI.DataAccessLayer.csproj": {
+                "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\DemoWebAPI.DataAccessLayer.csproj"
+              },
+              "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj": {
+                "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\DemoWebAPI.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\DemoWebAPI.DataAccessLayer.csproj",
+        "projectName": "DemoWebAPI.DataAccessLayer",
+        "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\DemoWebAPI.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
+        "outputPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salvatore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj",
+        "projectName": "DemoWebAPI.Models",
+        "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
+        "outputPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salvatore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI\\DemoWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI\\DemoWebAPI.csproj",
+        "projectName": "DemoWebAPI",
+        "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI\\DemoWebAPI.csproj",
+        "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
+        "outputPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salvatore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\DemoWebAPI.BusinessLayer.csproj": {
+                "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.BusinessLayer\\DemoWebAPI.BusinessLayer.csproj"
+              },
+              "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj": {
+                "projectPath": "E:\\corsi\\ElectroLux\\day3\\DemoWebAPI\\DemoWebAPI.Models\\DemoWebAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
